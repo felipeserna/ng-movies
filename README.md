@@ -2,7 +2,7 @@
 
 1. cd angular-movies/src/environments
 
-2. Open environment.development.ts and write your API key from https://www.omdbapi.com 
+2. Open environment.development.ts and write your API key for https://www.omdbapi.com 
 
 3. On your terminal. Go to the folder that contains angular.json.
 
